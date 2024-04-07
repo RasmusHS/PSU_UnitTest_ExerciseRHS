@@ -1,5 +1,5 @@
 ﻿# Opgaver
-Disse opgaver skal løses ved at bruge ChatGPT (eller lignende). Formålet er at træne i brugen af automatisk genereret kode til unit tests, lære at være kritisk mod den genererede kode og samtidig få produceret noget.
+Disse opgaver skal løses ved at bruge ChatGPT (eller lignende). Formålet er at træne i brugen af automatisk genereret kode til unit tests, lære at være kritisk mod den genererede kode og samtidig få produceret noget. Undervejs skal i hole lidt øje med tiden, prøv at vurder hvor meget tid i bruger.
 
 ## Product.cs
 * Skriv kommetarer til alle klasser og properties
